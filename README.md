@@ -84,7 +84,3 @@ UI/UX Guidelines
 • Pagination & infinite scroll bekerja. 
 • UI minimalis dark mode dengan Tailwind + shadcn. 
 • Ada loading, empty, dan error state. 
-
-LINK WEBSITE ONLINE:
-1. https://5651668c631d4d43a8e2060a569d6185-main.projects.builder.my
-2. https://5651668c631d4d43a8e2060a569d6185-main.projects.builder.my
