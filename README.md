@@ -1,3 +1,5 @@
+DEPLOYMENT: https://to-do-list-elbert.vercel.app/
+
 MVP Guide - TodoList Frontend 
  
 Tujuan 
