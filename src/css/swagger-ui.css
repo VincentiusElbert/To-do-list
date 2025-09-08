@@ -1,0 +1,14 @@
+/* Minimal Swagger UI overrides for consistent look in this project */
+.swagger-ui .topbar {
+  display: none;
+}
+.swagger-ui .info .title {
+  font-family:
+    Inter,
+    system-ui,
+    -apple-system,
+    sans-serif;
+}
+.swagger-ui .opblock {
+  border-radius: 8px;
+}
