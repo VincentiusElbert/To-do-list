@@ -1,9 +1,10 @@
-{
-  "framework": "vite",
-  "buildCommand": "pnpm build",
-  "outputDirectory": "dist/spa",
-  "rewrites": [
-    { "source": "/todos", "destination": "/api/todos" },
-    { "source": "/todos/:path*", "destination": "/api/todos/:path*" }
-  ]
-}
+  {
+    "framework": "vite",
+    "buildCommand": "pnpm build",
+    "outputDirectory": "dist/spa",
+    "installCommand": "pnpm install --no-frozen-lockfile",
+    "rewrites": [
+      { "source": "/todos", "destination": "/api/todos" },
+      { "source": "/todos/:path*", "destination": "/api/todos/:path*" }
+    ]
+  }
